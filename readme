@@ -1,0 +1,4 @@
+## Allow permissions on machine to bypass policies with an exe 
+Set-ExecutionPolicy -Scope Process -ExecutionPolicy Bypass
+## activate venv for baseball project 
+baseball_env\Scripts\activate 

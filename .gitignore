@@ -1,0 +1,20 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.env
+venv/
+
+# Node.js
+node_modules/
+dist/
+.quasar/
+yarn.lock
+
+# SQLite
+*.db
+
+# IDE/Editor Files
+.vscode/
+.idea/
+*.log
